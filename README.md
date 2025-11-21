@@ -63,7 +63,7 @@ Tout le pipeline fonctionne en continu et en temps réel.
 
 ## ❤️ Équipe
 
-Projet réalisé en collaboration entre les étudiants de **Analytiques des Données & Intelligence Artificielle** et **Master Ingénierie Informatique & Systèmes Distribués**, dans le cadre du module **Réseaux & IoT** et **Cloud Computing**.
+Projet réalisé en collaboration entre les étudiants de **Analytiques des Données & Intelligence Artificielle** et **Master Ingénierie Informatique & Systèmes Distribués**, dans le cadre des modules **Réseaux & IoT** et **Cloud Computing**.
 
 ### Master ADIA - Analytiques des données & Intelligence Artificielle
 - Elqorachi Hind  
