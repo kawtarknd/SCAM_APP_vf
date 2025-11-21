@@ -50,8 +50,8 @@ Il combine un ESP32 équipé de capteurs, un backend distribué, une interface F
 ## 🔗 Fonctionnement global
 
 1. **ESP32** lit les données BPM, SpO₂, accéléromètre et gyroscope  
-2. Il envoie les données vers le **backend Render**, qui applique le traitement  
-3. Render publie les alertes vers **Supabase** et les données instantanées vers **Firebase**  
+2. Il envoie les données vers le **backend Render**, qui applique le traitement , et instantanément dans **Firebase** pour affichage des Dashboards.
+3. Render publie les alertes vers **Supabase**.
 4. L’interface **Flutter Web (Netlify)** récupère les données et affiche :  
    - Les mesures en temps réel  
    - Les alertes détectées  
@@ -63,7 +63,7 @@ Tout le pipeline fonctionne en continu et en temps réel.
 
 ## ❤️ Équipe
 
-Projet réalisé en collaboration entre les étudiants de **Master Data Analytics & AI** et **Master Ingénierie Informatique & Systèmes Distribués**, dans le cadre du module **Réseaux & IoT**.
+Projet réalisé en collaboration entre les étudiants de **Analytiques des Données & Intelligence Artificielle** et **Master Ingénierie Informatique & Systèmes Distribués**, dans le cadre du module **Réseaux & IoT** et **Cloud Computing**.
 
 ### Master ADIA - Analytiques des données & Intelligence Artificielle
 - Elqorachi Hind  
@@ -80,3 +80,4 @@ Projet réalisé en collaboration entre les étudiants de **Master Data Analytic
 ## 📄 Licence
 
 Projet académique — non destiné à un usage commercial.
+**Université Ibn Zohr - Centre d'Excellence IT**
