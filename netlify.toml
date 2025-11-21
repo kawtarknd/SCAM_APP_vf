@@ -7,7 +7,13 @@
 # 🟧 Configuration du build Netlify
 [build]
   publish = "build/web"
-  command = "sh ./netlify_build.sh"
+  command = """
+    git clone https://github.com/flutter/flutter.git -b stable
+    export PATH=\"$PATH:$(pwd)/flutter/bin\"
+    flutter --version
+    flutter pub get
+    flutter build web --release
+  """
 
 [build.environment]
   FLUTTER_VERSION = "3.24.0"
