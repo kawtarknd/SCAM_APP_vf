@@ -60,6 +60,7 @@ Il combine un ESP32 équipé de capteurs, un backend distribué, une interface F
 Tout le pipeline fonctionne en continu et en temps réel.
 
 ---
+https://github.com/user-attachments/assets/0490d894-e8a2-4f73-82d4-a3bbb7b8ca40
 
 ## ❤️ Équipe
 
@@ -69,6 +70,7 @@ Projet réalisé en collaboration entre les étudiants de **Analytiques des Donn
 - ELQORACHI Hind  
 - KHAIR Latifa  
 - KINAD Kawtar
+
 
 ### Master IISE — Ingénierie Informatique & Systèmes Distribués
 - EL HEFIANE Meryam
