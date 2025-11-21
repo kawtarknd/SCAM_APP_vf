@@ -77,6 +77,14 @@ Projet réalisé en collaboration entre les étudiants de **Analytiques des Donn
 
 ---
 
+## Encadrement / Supervision
+
+Le projet a été encadré par les enseignants responsables des modules respectifs :
+
+-  [Pr. Amine RGHIOUI], [Internet Of Things]
+-  [Pr. Monsef BOUGHROUS], [Réseaux/ Cloud Computing]
+
+
 ## 📄 Licence
 
 Projet académique — non destiné à un usage commercial.
