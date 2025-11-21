@@ -66,14 +66,15 @@ Tout le pipeline fonctionne en continu et en temps réel.
 Projet réalisé en collaboration entre les étudiants de **Analytiques des Données & Intelligence Artificielle** et **Master Ingénierie Informatique & Systèmes Distribués**, dans le cadre des modules **Réseaux & IoT** et **Cloud Computing**.
 
 ### Master ADIA - Analytiques des données & Intelligence Artificielle
-- Elqorachi Hind  
-- Khair Latifa  
-- Kinad Kawtar
+- ELQORACHI Hind  
+- KHAIR Latifa  
+- KINAD Kawtar
 
 ### Master IISE — Ingénierie Informatique & Systèmes Distribués
-- Ahbri Jihad  
-- Baba Farah  
-- El Hefiane Meryem
+- EL HEFIANE Meryem
+- AHBRI Jihad  
+- BABA Farah  
+
 
 ---
 
