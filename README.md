@@ -22,7 +22,7 @@ Il combine un ESP32 équipé de capteurs, un backend distribué, une interface F
 
 ## 🏗️ Architecture générale
 
-![Architecture Générale](./architecture.jepeg)
+![Architecture Générale](./architecture.jpeg)
 
 ---
 
