@@ -71,7 +71,7 @@ Projet réalisé en collaboration entre les étudiants de **Analytiques des Donn
 - KINAD Kawtar
 
 ### Master IISE — Ingénierie Informatique & Systèmes Distribués
-- EL HEFIANE Meryem
+- EL HEFIANE Meryam
 - AHBRI Jihad  
 - BABA Farah  
 
