@@ -28,7 +28,7 @@ Il combine un ESP32 équipé de capteurs, un backend distribué, une interface F
 ## 📡 Schéma IoT du système
 
 Le schéma ci-dessous illustre les connexions entre l’ESP32, les capteurs et l’écran LCD.
-
+![Schéma IoT](schema_iot.png)
 ### 🔌 Connexions principales
 MAX30102 → ESP32 (I2C)
 
