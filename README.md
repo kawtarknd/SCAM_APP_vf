@@ -30,35 +30,37 @@ Il combine un ESP32 équipé de capteurs, un backend distribué, une interface F
 Le schéma ci-dessous illustre les connexions entre l’ESP32, les capteurs et l’écran LCD.
 ![Schéma IoT](schema_iot.png)
 ### 🔌 Connexions principales
-MAX30102 → ESP32 (I2C)
+**MAX30102 → ESP32 (I2C)**
 
 VIN → 3.3V
 
 GND → GND
 
-SCL → GPIO 22
+SDA → GPIO 25
 
-SDA → GPIO 21
+SCL → GPIO 26
 
-MPU6050 → ESP32 (I2C)
+**MPU6050 → ESP32 (I2C)**
 
 VCC → 3.3V
 
 GND → GND
 
-SCL → GPIO 22
+SDA → GPIO 25
 
-SDA → GPIO 21
+SCL → GPIO 26
 
-LCD 16×4 → ESP32 (I2C personnalisé)
+**LCD 16×4 → ESP32 (I2C personnalisé)**
+
+VCC → 5V
+
+GND → GND
 
 SDA → GPIO 25
 
 SCL → GPIO 26
 
-VCC → 5V
 
-GND → GND
 
 ## 🛠️ Technologies utilisées
 
