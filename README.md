@@ -61,7 +61,7 @@ SDA → GPIO 25
 SCL → GPIO 26
 
 
-
+---
 ## 🛠️ Technologies utilisées
 
 ### Frontend
